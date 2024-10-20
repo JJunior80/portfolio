@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido pela Udemy Business para ensino de tecn
 <br>
 
 <p align="center">
-  <img alt="Projeto Portfólio" src="./img/techs/preview-logo.png" width="100%">
+  <img alt="Dev.JÚNIOR" src="./img/techs/preview-logo.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
